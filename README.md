@@ -38,10 +38,6 @@ Web Summarizer is a Chrome extension that leverages AI to provide concise summar
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 Made with ❤️ by Aditya Mishra
