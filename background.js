@@ -1,5 +1,5 @@
 // Replace 'YOUR_API_KEY' with your actual OpenAI API key
-const apiKey = 'FBB2nZgpFRlYhd1TnZ3H4tl9cJ8cJ1QcG48BGCuB'
+const apiKey = ''
 // Function to send a request to the Cohere API API for summarization
 async function summarizePageContent(pageContent, sendResponse) {
   try {
