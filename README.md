@@ -2,7 +2,7 @@
 
 Web Summarizer is a Chrome extension that leverages AI to provide concise summaries of web pages. With just a click, users can transform lengthy articles, blogs, or any web content into easy-to-read summaries, enhancing productivity and information retention.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d4eef2d4-2952-4513-9be6-9847947afb66)
 
 
 ## Features
